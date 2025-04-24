@@ -1,0 +1,25 @@
+
+
+
+data = {
+"ID":[1,2,3,4,5,6,7],
+"Name":["Alice","Bob","Charlie","David","Flora","Emma","Gabriel"],
+"Department": ["Finance", "IT", "Finance", "Marketing", "Sales", "Finance", "Sales"],
+"Salary":[40000,60000,70000,55000,65000,45000,65000]
+}
+ 
+  
+Q1 = Retrieve the highest salary from Each Department.
+Q2 = Use Lambda function Give 10% increment to all the employees whoever is getting less than or equal to 50000.
+Q3: Classify employees as "High Earner" or "Low Earner" based on Salary > 60,000
+
+
+
+
+
+
+
+
+
+
+
